@@ -1,5 +1,5 @@
 # BuddyPress Post cards
-This plugin was is created for CFCommunity.net - A Social Network for people affected by Cystic Fibrosis.
+*This plugin is madefor CFCommunity.net - A Social Network for people affected by Cystic Fibrosis.*
 
 BuddyPress Post cards Makes it easy for your members to sent real physical post cards to each other. Similar to sending a private message but more personal. 
 
@@ -35,11 +35,6 @@ On the next screen the user sees a preview of the card and needs to confirm his/
 On the final step the users gets a confirmation that the post card was successfully sent! 
 
 ![bp-post-cards-step-4](https://cloud.githubusercontent.com/assets/855037/5892082/0cccb5c8-a4b4-11e4-8e07-844b463015a7.jpg)
-
-## Notes
-
-- The "Send a Postcard" button should only show when the user has filled in the xprofile address fields described in issue #2
-- In order for a user to be able to send a postcard they also need to have filled in their OWN address fields so we can put the sender address on the card
 
 
 
