@@ -1,5 +1,5 @@
 # BuddyPress Post cards
-*This plugin is madefor CFCommunity.net - A Social Network for people affected by Cystic Fibrosis.*
+*This plugin is made for CFCommunity.net - A Social Network for people affected by Cystic Fibrosis.*
 
 BuddyPress Post cards Makes it easy for your members to sent real physical post cards to each other. Similar to sending a private message but more personal. 
 
