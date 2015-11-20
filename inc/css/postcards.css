@@ -1,0 +1,37 @@
+
+
+.prev, .next { color:#fff; background-color: #5cb85c; border-color: #4cae4c; padding:5px 10px;  text-decoration:none;}
+
+.prev:hover, .next:hover { color:#fff; background-color: #5cb85c; text-decoration:none;}
+
+.prev { float:left; }
+.next { float:left;  margin-left: 100px; }
+
+#steps { list-style:none; width:100%; overflow:hidden; margin:0px; padding:0px;}
+#steps li {font-size:14px; float:left; padding:10px; color:#000;}
+#steps li.current { color:#5d8fbb;}
+
+.breadcrumb {
+    height: 37px;
+}
+.breadcrumb li {
+    background: #eee;
+    font-size: 14px;
+}
+.breadcrumb li.current:after {
+    border-top: 18px solid transparent;
+    border-bottom: 18px solid transparent;
+    border-left: 6px solid #666;
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: -6px;
+}
+.breadcrumb li.current {
+    background: #666;
+    color: #eee;
+    position: relative;
+}
+.breadcrumb li:last-child:after {
+    border: none;
+}
